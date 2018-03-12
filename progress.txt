@@ -5,3 +5,4 @@ chapter4-1, api_config   done
 chapter4-2, items_search done
 chapter5,   want         done
 chapter6,   have         done
+chapter7,   want_rank    done
